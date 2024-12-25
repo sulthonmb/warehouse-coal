@@ -1,0 +1,15 @@
+.grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.bg-dark-blue-primary {
+    background-color: #1c47a0;
+}
+
+.bg-stock-card-primary {
+    background-color: #fafafa;;
+}
+
+.border-bg-dark-blue-primary {
+    border: solid 1px #1c47a0;
+}
